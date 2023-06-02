@@ -1,9 +1,4 @@
-Data Source in SDW: https://sdw.ecb.europa.eu/quickview.do?SERIES_KEY=143.FM.D.U2.EUR.4F.KR.MRR_FR.LEV
-,FM.D.U2.EUR.4F.KR.MRR_FR.LEV
-,"Euro area (changing composition) - Key interest rate - ECB Main refinancing operations - fixed rate tenders (fixed rate) (date of changes) - Level - Euro, source: ECB"
-Collection:,End of period (E)
-Period\Unit:,[Percent per annum ]
-,,obs. status,obs. comment
+Date,Percent per annum,obs. status,obs. comment
 2023-04-22,3.5000,Normal value (A),
 2023-04-21,3.5000,Normal value (A),
 2023-04-20,3.5000,Normal value (A),

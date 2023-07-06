@@ -1,4 +1,4 @@
-Date,Adj Close,Volume,ezb_funds,fed_funds_for_banks,fed_funds_for_cumstomer
+Date,Adj Close,Volume,ezb_funds,fed_funds_for_banks,fed_funds_for_customer
 2009-10-01,16.75,850.0,1.0,0.12,3.25
 2009-11-01,16.855,1066.0,1.0,0.12,3.25
 2009-12-01,18.01,1117.0,1.0,0.12,3.25

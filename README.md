@@ -14,5 +14,5 @@ This Project is for the "Data Science Basic Kurs" - Modul. The project will be a
 
 *First of all I would like to thank Prof. Spehr for the help and consultations throughout the semester and the project.*
 
-I updated my requirements.txt and .gitignore file as like the email you mention. I deleted my folder and clone and restart the project as the 4 steps in "getting started". It works on my PC. I hope it will works in yours, too.  
-If it is not working please sent me a mail, so we can look up the problem again
+I updated my requirements.txt and .gitignore file as you mentioned in the Email. I deleted my folder, clone and restart the project with the 4 steps in "getting started". It works on my PC. I hope it will work on your machine, too. 
+If it is not working please sent me a mail, so we can look up the problem again. 
